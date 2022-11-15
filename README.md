@@ -1,6 +1,6 @@
 # FCC ROTHKO-PAINTING
 
-> A basic HTML and CSS to demostration styling.
+> A basic HTML and CSS to demostration st.
 
 ![screenshot](./fcc-rothko-painting.netlify.app_.png)
 
@@ -8,10 +8,15 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
-
+- HTML5 elements
+  - `div`.
+- CSS elements
+  - `.canvas`,
+  - `.frame`.
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+- Github Action
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
