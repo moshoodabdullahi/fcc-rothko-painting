@@ -1,6 +1,6 @@
 # FCC ROTHKO-PAINTING
 
-> A basic HTML and CSS to demostration st.
+> A basic HTML and CSS to demostration styling.
 
 ![screenshot](./fcc-rothko-painting.netlify.app_.png)
 
